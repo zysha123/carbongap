@@ -1,4 +1,4 @@
-/* Unit: gc/m2/yr */
+/* Carbon gap flux statistics for each MODIS land (veg) cover types (modis_land1, modis_land2, ...) and continent/region. Unit: gc/m2/yr */
 Continents/regions,year,modis_land1,modis_land2,modis_land3,modis_land4,modis_land5,modis_land6,modis_land7,modis_land8,modis_land9,modis_land10,modis_land11,modis_land12,modis_land13,modis_land14,modis_land15,modis_land16,modis_land17
 North America,2018,64.95,201.40,45.51,130.90,76.07,170.83,48.10,126.25,119.58,88.14,186.06,104.75,39.71,118.12,4.93,35.92,5.79
 Europe,2018,70.22,137.46,121.02,95.63,43.29,171.76,82.38,101.52,148.99,156.42,335.42,134.38,24.99,79.82,4.90,86.07,1.29
