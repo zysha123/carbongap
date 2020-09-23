@@ -1,4 +1,4 @@
-/* NPP statistics for each MODIS land (veg) cover types and continent/region. Unit: gC/m2/yr */
+/* NPP flux statistics for each MODIS land (veg) cover types and continent/region. Unit: gC/m2/yr */
 Continents/regions,year,modis_land1,modis_land2,modis_land3,modis_land4,modis_land5,modis_land6,modis_land7,modis_land8,modis_land9,modis_land10,modis_land11,modis_land12,modis_land13,modis_land14,modis_land15,modis_land16,modis_land17,,,
 North America,2018,686.09,1487.35,552.30,940.84,792.76,483.32,210.11,622.74,414.98,216.43,97.22,558.91,73.03,782.43,1.32,12.88,11.34,,,
 Europe,2018,729.47,1219.16,426.25,971.56,759.83,547.03,296.93,727.55,695.84,481.42,209.16,658.77,43.81,844.93,1.10,11.43,0.58,,,
