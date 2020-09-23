@@ -1,4 +1,5 @@
-/* The following dataset records the relationship between carbongap~population and carbongap~NPP. Area unit: m2, carbon unit:  gC/m2/yr */
+/* The following dataset records the relationship between carbongap~population and carbongap~NPP. Area unit: m2, carbon unit:  gC/m2/yr*/
+/* Column PCT_n% indicates slice through n percentile (from low to high) for the correponding rows. Carbongap_Max is the maximum in carbon gap in the slice */
 Continent,Item,PCT_5%,PCT_10%,PCT_15%,PCT_20%,PCT_25%,PCT_30%,PCT_35%,PCT_40%,PCT_45%,PCT_50%,PCT_55%,PCT_60%,PCT_65%,PCT_70%,PCT_75%,PCT_80%,PCT_85%,PCT_90%,PCT_95%,PCT_100%
 North America,Carbongap_Max,8.67,8.67,23.59,23.59,23.59,39.28,39.28,55.17,55.17,55.17,71.14,87.2,87.2,103.2,135.2,151.24,183.28,247.37,343.33,2581
 North America,Area_this_PCT,7.87E+11,,2.03E+12,,,2.32E+12,,2.06E+12,,,1.66E+12,1.31E+12,,1.04E+12,1.51E+12,5.52E+11,8.43E+11,1.10E+12,1.05E+12,1.13E+12
