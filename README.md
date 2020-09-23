@@ -1,8 +1,19 @@
 This repo contains table sheets from our recent study on carbon gap potential from vegetation
 
-All imageries can be accessed at
-https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018
-
+Some key imagees can be accessed at
+Mean carbon gap flux for global vegetated area during 2001-2018
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/CarbongapMean
+Mean NPP during 2001-2018
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/NPPMean
+Land (vegetation) cover for the year 2018
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/landcoverMOD12Q1_2018
+Relative NPP (relative contribution) for the year 2018
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/relativeNpp2018
+Region segmentation for the year 2018
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/UniqueUnits2018
+World land area
+https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/world_land_area
+All other images are available if requested.
 
 Common columns explanation
 PCT_n%: corresponding vegetated area is first sliced into sub-areas using the n percentile of carbon gap flux (order by carbon gap flux from low to high) at an interval of 5%, i.e., 0~5%, 5~10%, …, 95~100%. All items related to PCT_n% is computed for each corresponding sub-area.
