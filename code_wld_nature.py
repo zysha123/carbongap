@@ -3,7 +3,7 @@ from functools import partial
 
 # All datasets are avaiable at https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018
 ee.Initialize()
-
+ 
 # Asset location
 asset_location="users/username/this_dir"
 #Local file store for statistics files
