@@ -1,5 +1,3 @@
-/* The following dataset records the relationship between carbongap~population and carbongap~NPP by slicing carbongap flux. Area unit: m2, carbon unit:  gC/m2/yr*/
-/* Column PCT_n% indicates area corresponding to the sliced n percentile of carbon gap (order by carbon gap flux from low to high). Carbongap_Max is the maximum in carbon gap flux in each slice */
 Continent,Item,PCT_5%,PCT_10%,PCT_15%,PCT_20%,PCT_25%,PCT_30%,PCT_35%,PCT_40%,PCT_45%,PCT_50%,PCT_55%,PCT_60%,PCT_65%,PCT_70%,PCT_75%,PCT_80%,PCT_85%,PCT_90%,PCT_95%,PCT_100%
 North America,Carbongap_Max,8.67,8.67,23.59,23.59,23.59,39.28,39.28,55.17,55.17,55.17,71.14,87.2,87.2,103.2,135.2,151.24,183.28,247.37,343.33,2581
 North America,Area_this_PCT,7.87E+11,,2.03E+12,,,2.32E+12,,2.06E+12,,,1.66E+12,1.31E+12,,1.04E+12,1.51E+12,5.52E+11,8.43E+11,1.10E+12,1.05E+12,1.13E+12
@@ -61,10 +59,3 @@ South America,Area_this_PCT,4.09E+11,1.03E+12,1.34E+12,,1.42E+12,,1.37E+12,,1.24
 South America,Popu_Mean,4.38,3.87,3.89,,4.01,,4.28,,4.67,5.19,6.09,6.92,7.91,8.9,10.72,13.66,16.22,18.55,28.68,28.42
 South America,Carbongap_Mean,4.67,16.37,31.64,,47.49,,63.39,,79.33,95.28,111.25,127.23,143.24,159.25,182.6,228.97,293.76,378.06,550.27,990.23
 South America,NPP_Mean,868.23,818.13,820.59,,851.69,,880.4,,896.85,899.45,888.47,869.72,844.38,816.98,776.1,714.85,675.2,693.81,838.11,654.41
-/* World total */
-World_SUM_Area_this_PCT,,4.48E+12,6.03E+12,4.39E+12,5.05E+12,4.25E+12,5.55E+12,2.71E+12,8.04E+12,3.42E+12,4.50E+12,6.84E+12,4.66E+12,4.17E+12,5.56E+12,6.22E+12,4.73E+12,5.24E+12,5.32E+12,5.47E+12,5.55E+12
-World_SUM_TotalCarbon_this_PCT,,2.34E+13,9.06E+13,1.00E+14,1.22E+14,1.62E+14,2.00E+14,1.62E+14,3.77E+14,2.25E+14,3.55E+14,5.20E+14,4.54E+14,4.42E+14,6.60E+14,8.76E+14,8.66E+14,1.11E+15,1.47E+15,2.03E+15,3.70E+15
-/* Accumulated area against PCT of carbongap for the world */
-Accumu. Area_this_PCT,,4.48E+12,1.05E+13,1.49E+13,2.00E+13,2.42E+13,2.97E+13,3.25E+13,4.05E+13,4.39E+13,4.84E+13,5.52E+13,5.99E+13,6.41E+13,6.96E+13,7.59E+13,8.06E+13,8.58E+13,9.12E+13,9.66E+13,1.02E+14
-Accumu. Area%_this_PCT,,4.38,10.29,14.59,19.53,23.69,29.12,31.77,39.64,42.98,47.38,54.07,58.64,62.72,68.16,74.25,78.88,84.01,89.21,94.56,100
-Accumu. Carbongap_this_PCT,,2.34E+13,1.14E+14,2.14E+14,3.36E+14,4.98E+14,6.98E+14,8.60E+14,1.24E+15,1.46E+15,1.82E+15,2.34E+15,2.79E+15,3.23E+15,3.89E+15,4.77E+15,5.63E+15,6.75E+15,8.21E+15,1.02E+16,1.40E+16
