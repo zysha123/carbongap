@@ -16,7 +16,7 @@ https://code.earthengine.google.com/?asset=users/zongyaosha/imgs2018/world_land_
 All other images are available if requested.
 
 Common columns explanation
-PCT_n%: corresponding vegetated area is first sliced into sub-areas using the n percentile of carbon gap flux (order by carbon gap flux from low to high) at an interval of 5%, i.e., 0~5%, 5~10%, …, 95~100%. All items related to PCT_n% is computed for each corresponding sub-area.
+PCT_n%: corresponding vegetated area is first sliced into sub-areas using the n percentile of carbon gap flux (order by carbon gap flux from low to high) at an interval of 5%, i.e., 0-5%, 510%, …, 95-100%. All items related to PCT_n% is computed for each corresponding sub-area.
 modis_landn: indicates the land (vegetation) cover type from IGBP classification schema of MODIS 12Q1 dataset, where n=1,2, ...17. Note that 11.(Permanent wetlands), 13 (Urban and built-up lands), 15 (Snow and ice), 16 (Barren), and 17 (Water bodies) were not included for the statistics.
 
 Table sheets
