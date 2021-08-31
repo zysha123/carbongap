@@ -53,3 +53,7 @@ Data used to decide optimal window size, which is ~20km.
 
 vegtype_area_in_continent.csv
 Vegetated area (m2) based on IGBP land (vegetation) cover type in each continent/region
+
+git_share_nm_samples_result.csv
+Carbon gap and field data validation from Inner Mongolia, China. Detail information about headers is as follows:
+ID: row id,	year: the year for the record collected,	lon: longitude,	lat: latitude,	u_id: unique id for the record,	grazing: grazing intensity (unit: sheep unit*10^4/km^2) for the administrative county where the sample locates,	biomass: above ground biomass inside the protection site,	o_biomass: biomass outside the site,	carbongap: carbon gap at the sample location,	NPP: npp at the sample location,	npp_ratio:carbon gap/npp*100(%),	biomass_ratio: (biomass-o_biomass)/o_biomass*100(%), 	DAY1: greenupdate,	DAY2: sample collection date,	DAYS: days between DAY1 and DAY2,	grazing_2: biomass consumption by grazing (1.8kg/sheep unit/per day, unit: g/m^2),	b_a_ratio: below-above ground biomass ratio,	biomass_t: total biomass inside the protection area,	o_biomass_t:total biomass outside the protection area,	o_biomass_t_c: grazed biomass+o_biomass_t, i.e., the total biomass outside the protection area considering grazing,	biomass_gap: Max((biomass_t-o_biomass_t_c)/o_biomass_t_c*100(%),0)
